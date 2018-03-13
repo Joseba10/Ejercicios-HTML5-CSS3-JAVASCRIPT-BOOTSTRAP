@@ -13,7 +13,7 @@ Ejercicios HTML5+CSS3+JAVASCRIPT + BOOTSTRAP +JQUERY + GULP
 ## Quieres saber que tiempo hace en tu ciudad? Pues ya puedes saberlo mediante esta pagina
 ![Alt text](https://github.com/Joseba10/Ejercicios-HTML5-CSS3-JAVASCRIPT-BOOTSTRAP/blob/JosebaClemente/img/tiempo.PNG)
 
-##Gestion de Pintxos
+## Gestion de Pintxos
 ![Alt text](https://github.com/Joseba10/Ejercicios-HTML5-CSS3-JAVASCRIPT-BOOTSTRAP/blob/JosebaClemente/img/pintxos.PNG)
 
 
