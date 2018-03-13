@@ -6,7 +6,7 @@ Ejercicios HTML5+CSS3+JAVASCRIPT + BOOTSTRAP +JQUERY + GULP
 ## Pantalla de inicio,donde los proyectos estan agrupados
 ![Alt text](https://github.com/Joseba10/Ejercicios-HTML5-CSS3-JAVASCRIPT-BOOTSTRAP/blob/JosebaClemente/img/inicio.PNG)
 
-##Valor del Bitcoin Actualmente
+## Valor del Bitcoin Actualmente
 ![Alt text](https://github.com/Joseba10/Ejercicios-HTML5-CSS3-JAVASCRIPT-BOOTSTRAP/blob/JosebaClemente/img/calcular.PNG)
 
 
